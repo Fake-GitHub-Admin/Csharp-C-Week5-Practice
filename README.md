@@ -4,7 +4,9 @@
 
 
 5/9/2022 - Start Date
-5/10 -  Taking C++ Notes, C# notes were done last week already. Will take some time to complete before writing the code.
+
+
+5/10/2022 -  Taking C++ Notes, C# notes were done last week already. Will take some time to complete before writing the code.
 
 
 
