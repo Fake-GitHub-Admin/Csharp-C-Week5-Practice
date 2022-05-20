@@ -1,18 +1,10 @@
 # Csharp-C-Week5-Practice
  Battleship + Tic-tac-toe Challenge for both languages
 
+DATE EXTENSTIONS AS OF 5/19/2022
+NEEDED TO ROUND UP MY COLLEGE STUDIES AND HAVING SEVERAL RUNNING PROBLEMS WITH THE CURRENT C# AND C++ IDEs 
 
 
-5/9/2022 - Start Date
+5/20/2022 -  Start Date
 
-
-5/10/2022 -  Taking C++ Notes, C# notes were done last week already. Will take some time to complete before writing the code.
-
-
-
-
-
-
-
-
-5/23/2022 - End Date
+5/31/2022 - End Date
